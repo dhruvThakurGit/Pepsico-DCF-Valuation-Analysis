@@ -19,6 +19,9 @@ Pepsico_DCF_Valuation.xlsx
 ├── DCF                   ← FCFF build, discounting, terminal value, equity bridge, sensitivity
 └── STEP BY STEP          ← Annotated methodology notes on model construction
 ```
+<img width="1579" height="808" alt="image" src="https://github.com/user-attachments/assets/bc64b654-ddec-4f88-93cc-1603fdde17fc" />
+
+<img width="1165" height="741" alt="image" src="https://github.com/user-attachments/assets/92e3a472-e055-4a25-a9bf-e115dd2488c6" />
 
 ---
 
